@@ -1,0 +1,8 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_TYPE_IS_SOCKS" value="true" />
+    <option name="PROXY_HOST" value="203.100.83.126" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
+  </component>
+</application>
