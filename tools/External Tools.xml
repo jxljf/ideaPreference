@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="build" description="AllBuild" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/code/jf/mall/b2b2c/release_6.5.0/source/build.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/code/jf/mall/b2b2c/release_6.5.0/source" />
+    </exec>
+  </tool>
+  <tool name="cb" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/code/jf/mall/b2b2c/release_6.5.0/source/build.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/code/jf/mall/b2b2c/release_6.5.0/source" />
+    </exec>
+  </tool>
+</toolSet>

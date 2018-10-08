@@ -1,0 +1,13 @@
+<application>
+  <component name="LuaCheckSettings">
+    <option name="luaCheck" value="" />
+    <option name="luaCheckArgs" value="" />
+  </component>
+  <component name="LuaSettings">
+    <option name="additionalSourcesRoot">
+      <array>
+        <option value="$USER_HOME$/lua-5.3.5" />
+      </array>
+    </option>
+  </component>
+</application>
