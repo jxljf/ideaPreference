@@ -13,6 +13,7 @@
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="fm" type="PLAIN_TEXT" />
       <mapping ext="truststore" type="PLAIN_TEXT" />
+      <mapping pattern="new" type="yarn.lock" />
     </extensionMap>
   </component>
 </application>
