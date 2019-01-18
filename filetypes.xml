@@ -7,7 +7,9 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="jd_province" type="PLAIN_TEXT" />
+      <mapping pattern="有300券" type="PLAIN_TEXT" />
       <mapping pattern="similar" type="PLAIN_TEXT" />
+      <mapping pattern="有账号" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
