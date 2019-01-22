@@ -15,7 +15,6 @@
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="eap" type="PLAIN_TEXT" />
       <mapping ext="lic" type="PLAIN_TEXT" />
