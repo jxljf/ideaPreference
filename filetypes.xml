@@ -15,9 +15,11 @@
       <mapping pattern="11" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="xml-bk" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="eap" type="PLAIN_TEXT" />
       <mapping ext="lic" type="PLAIN_TEXT" />
+      <mapping ext="xml-test4derby" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="fm" type="PLAIN_TEXT" />
       <mapping ext="truststore" type="PLAIN_TEXT" />
