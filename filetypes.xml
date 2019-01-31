@@ -3,21 +3,22 @@
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="0cat" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="All" type="PLAIN_TEXT" />
-      <mapping pattern="2" type="PLAIN_TEXT" />
-      <mapping pattern="23" type="PLAIN_TEXT" />
-      <mapping pattern="jd_province" type="PLAIN_TEXT" />
-      <mapping pattern="有300券" type="PLAIN_TEXT" />
-      <mapping pattern="mobiles" type="PLAIN_TEXT" />
-      <mapping pattern="similar" type="PLAIN_TEXT" />
-      <mapping pattern="coupon" type="PLAIN_TEXT" />
-      <mapping pattern="有账号" type="PLAIN_TEXT" />
-      <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="12" type="PLAIN_TEXT" />
       <mapping pattern="11" type="PLAIN_TEXT" />
+      <mapping pattern="jd_province" type="PLAIN_TEXT" />
+      <mapping pattern="有账号" type="PLAIN_TEXT" />
+      <mapping pattern="script" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="All" type="PLAIN_TEXT" />
+      <mapping pattern="git" type="PLAIN_TEXT" />
+      <mapping pattern="0cat" type="PLAIN_TEXT" />
+      <mapping pattern="similar" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern="mobiles" type="PLAIN_TEXT" />
+      <mapping pattern="coupon" type="PLAIN_TEXT" />
+      <mapping pattern="23" type="PLAIN_TEXT" />
+      <mapping pattern="有300券" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="xml-bk" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
