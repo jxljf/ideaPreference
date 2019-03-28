@@ -9,6 +9,7 @@
       <mapping pattern="有账号" type="PLAIN_TEXT" />
       <mapping pattern="script" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="0328" type="PLAIN_TEXT" />
       <mapping pattern="All" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="0cat" type="PLAIN_TEXT" />
