@@ -11,6 +11,7 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="0328" type="PLAIN_TEXT" />
       <mapping pattern="All" type="PLAIN_TEXT" />
+      <mapping pattern="9898R" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
       <mapping pattern="0cat" type="PLAIN_TEXT" />
       <mapping pattern="similar" type="PLAIN_TEXT" />
