@@ -1,6 +1,6 @@
 <application>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE:PREVIEW" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
 </application>
