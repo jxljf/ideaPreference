@@ -24,6 +24,7 @@
       <mapping pattern="4_16" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="xml-bk" type="PLAIN_TEXT" />
+      <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="eap" type="PLAIN_TEXT" />
       <mapping ext="lic" type="PLAIN_TEXT" />
